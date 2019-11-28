@@ -9,17 +9,17 @@ What can we do?
 
 
 - Choose a Dataset
-- Select The X variable of the Dataset
+- Select the X variable of the Dataset
 - Select the Y variable of the Dataset
-- Display the plot depending X and Y
+- Display the plot depending on X and Y
 
 The 3 datasets we can choose
 ========================================================
 
 ```{r}
-head(iris)
-head(mtcars)
-head(trees)
+head(iris,1)
+head(mtcars,1)
+head(trees,1)
 ```
 
 An example of plot
