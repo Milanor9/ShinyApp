@@ -4,6 +4,10 @@ author: John & Charles
 date: 28/11/2019
 autosize: true
 
+- Application : https://charlesmurier.shinyapps.io/MyShinyApp/?fbclid=IwAR2GiAJK-IR6-M6Q1D2A9VVHRafwjWlaotPkWttw-PY1IDBWHVD7kcnxMO4
+- Presentation : https://rpubs.com/charlesmurier/Rpresentation?fbclid=IwAR1f_Yvvhs-WXJKJLUGYh5gVNmABwa4j9OoIgwLfQ_1iA1REgeKcVj70bFg
+- Github : https://github.com/Milanor9/ShinyApp
+
 What can we do?
 ========================================================
 
